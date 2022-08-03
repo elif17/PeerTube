@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2014-2022 Pierre-Yves Gosset, <pyg@framasoft.org>, et al.
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # NPM instalation
 /node_modules/
 /server/tools/node_modules

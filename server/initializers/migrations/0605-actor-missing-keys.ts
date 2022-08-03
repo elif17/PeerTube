@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2014-2022 Pierre-Yves Gosset, <pyg@framasoft.org>, et al.
+//
+// SPDX-License-Identifier: GPL-3.0-only
+
 import * as Sequelize from 'sequelize'
 import { createPrivateKey, getPublicKey } from '../../helpers/core-utils'
 import { PRIVATE_RSA_KEY_SIZE } from '../constants'
